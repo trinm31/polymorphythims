@@ -1,0 +1,6 @@
+/Users/minhtri/RiderProjects/interface_abstract_exercise/Problem 5/bin/Debug/Problem_5.exe
+/Users/minhtri/RiderProjects/interface_abstract_exercise/Problem 5/bin/Debug/Problem_5.pdb
+/Users/minhtri/RiderProjects/interface_abstract_exercise/Problem 5/obj/Debug/Problem 5.csprojAssemblyReference.cache
+/Users/minhtri/RiderProjects/interface_abstract_exercise/Problem 5/obj/Debug/Problem 5.csproj.CoreCompileInputs.cache
+/Users/minhtri/RiderProjects/interface_abstract_exercise/Problem 5/obj/Debug/Problem_5.exe
+/Users/minhtri/RiderProjects/interface_abstract_exercise/Problem 5/obj/Debug/Problem_5.pdb

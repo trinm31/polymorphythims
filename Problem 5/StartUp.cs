@@ -8,10 +8,11 @@ namespace Problem_5
     {
         public static void Main(string[] args)
         {
-            List<IBirthday> birthdays = new List<IBirthday>();
-            ParseInput(birthdays);
+            string[] arr = new String[10];
+            List<IBirthday> birthdays1 = new List<IBirthday>();
+            ParseInput(birthdays1);
             string PrintYear = Console.ReadLine();
-            PrintBirthDay(birthdays, PrintYear);
+            PrintBirthDay(birthdays1, PrintYear);
             Console.ReadKey();
         }
         
@@ -22,6 +23,8 @@ namespace Problem_5
                 Console.WriteLine(birthday.Birthday);
             }
         }
+        
+        
 
         public static void ParseInput(List<IBirthday> birthdays)
         {
@@ -40,7 +43,11 @@ namespace Problem_5
                         birthdays.Add(pet);
                         break;
                 }
+                
                 input = Console.ReadLine();
+                Console.ReadLine();
+
+                
             }
             
         }
