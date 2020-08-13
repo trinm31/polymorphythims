@@ -4,3 +4,9 @@
 /Users/minhtri/RiderProjects/interface_abstract_exercise/Problems-2/obj/Debug/Problems-2.csproj.CoreCompileInputs.cache
 /Users/minhtri/RiderProjects/interface_abstract_exercise/Problems-2/obj/Debug/Problems_2.exe
 /Users/minhtri/RiderProjects/interface_abstract_exercise/Problems-2/obj/Debug/Problems_2.pdb
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-2\bin\Debug\Problems_2.exe
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-2\bin\Debug\Problems_2.pdb
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-2\obj\Debug\Problems-2.csprojAssemblyReference.cache
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-2\obj\Debug\Problems-2.csproj.CoreCompileInputs.cache
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-2\obj\Debug\Problems_2.exe
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-2\obj\Debug\Problems_2.pdb
