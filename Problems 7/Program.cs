@@ -25,7 +25,7 @@ public class Startup
     private static void ParseInput()
     {
         string input = Console.ReadLine();
-        while (input != "End")
+        while (input.ToLower() != "end")
         {
             string[] inputParts = input.Split(new[] {' '}, StringSplitOptions.RemoveEmptyEntries);
             string type = inputParts[0];

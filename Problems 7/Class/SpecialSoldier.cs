@@ -18,7 +18,7 @@ namespace Problems_7.Class
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.ToString())
-                .Append($"Mission: {Corp}");
+                .Append($"Corp: {Corp}");
             return sb.ToString();
         }
     }
