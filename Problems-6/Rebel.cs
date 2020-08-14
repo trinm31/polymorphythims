@@ -1,3 +1,5 @@
+using Problem_6;
+
 namespace Problems_6
 {
     public class Rebel: IBuyer

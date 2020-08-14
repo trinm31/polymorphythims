@@ -1,0 +1,2 @@
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-6\obj\Debug\Problems-6.csprojAssemblyReference.cache
+C:\Users\nmtri\RiderProjects\polymorphythims\Problems-6\obj\Debug\Problems-6.csproj.CoreCompileInputs.cache
